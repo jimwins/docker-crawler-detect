@@ -1,0 +1,9 @@
+{
+  "name": "jimwins/docker-crawler-detect",
+  "description": "CrawlerDetect API as microservice",
+  "homepage": "https://github.com/jimwins/docker-crawler-detect",
+  "license": "MIT",
+  "require": {
+    "jaybizzle/crawler-detect": "1.*"
+  }
+}
